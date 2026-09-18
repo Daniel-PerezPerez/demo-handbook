@@ -9,3 +9,7 @@ Data is essential for science and their appropiate handling plays a central role
 :::
 
 Many of the specifics for different types of data can be found in the SOPs describing the process for their generation (see [onboarding](onboarding.qmd)).
+
+## Research data cycle
+
+Hypothesis >> Experimental plan >> Documentation >> Grant >> Experiments >> Data storage >> Data analysis >> Publication >> Hypothesis
