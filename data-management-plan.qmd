@@ -1,0 +1,11 @@
+# Data Management Plan
+
+Data is essential for science and their appropiate handling plays a central role in maintaining our process [FAIR](https://www.gofair.foundation/).
+
+...
+
+::: callout-important
+## Our lab considers the FAIR principles for all data processes.
+:::
+
+Many of the specifics for different types of data can be found in the SOPs describing the process for their generation (see [onboarding](onboarding.qmd)).
