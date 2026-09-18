@@ -1,4 +1,4 @@
-# Lab Group Handbook Template
+# Demo Lab Handbook Example
 
 <!-- badges: start -->
 
