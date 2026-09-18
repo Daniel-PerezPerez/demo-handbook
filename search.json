@@ -144,7 +144,7 @@
     "href": "data-management-plan.html",
     "title": "4  Data Management Plan",
     "section": "",
-    "text": "Data is essential for science and their appropiate handling plays a central role in maintaining our process FAIR.\n…\n\n\n\n\n\n\nImportantOur lab considers the FAIR principles for all data processes.\n\n\n\n\n\n\nMany of the specifics for different types of data can be found in the SOPs describing the process for their generation (see onboarding).",
+    "text": "Research data cycle\nData is essential for science and their appropiate handling plays a central role in maintaining our process FAIR.\n…\nMany of the specifics for different types of data can be found in the SOPs describing the process for their generation (see onboarding).\nHypothesis &gt;&gt; Experimental plan &gt;&gt; Documentation &gt;&gt; Grant &gt;&gt; Experiments &gt;&gt; Data storage &gt;&gt; Data analysis &gt;&gt; Publication &gt;&gt; Hypothesis",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management Plan</span>"
     ]
